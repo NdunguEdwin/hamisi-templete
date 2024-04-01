@@ -5,7 +5,7 @@ jQuery(document).ready(function() {
 	// editable value
 	var logo_pos				= 1;
 	var logo_dir_1				= 'images/logo.png';
-	var logo_dir_2				= 'images/logo_light.png';
+	var logo_dir_2				= 'images/mastermind-no-bg.png';
 	var logo_center_top_margin	= '-15px';
 	var logo_left_top_margin	= '30px';
 	var header_sticky			= 1;

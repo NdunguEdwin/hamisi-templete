@@ -53,7 +53,7 @@
                     <div class="col-md-12">
                         <!-- logo begin -->
                         <div id="logo">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img class="logo logo_dark_bg" src="images/logo.png" alt="">
                                 <img class="logo logo_light_bg" src="images/logo_light.png" alt="">
                             </a>
@@ -123,8 +123,8 @@
                                     </ul>
                                 </li>
                                 <li><a href="about.html">About Us</a></li>
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="news.html">News</a></li>
+                                <!-- <li><a href="shop.html">Shop</a></li> -->
+                                <!-- <li><a href="news.html">News</a></li> -->
                                 <li><a href="contact.html">Contact</a></li>
                             </ul>
                         </nav>
@@ -159,7 +159,7 @@
                                 data-start="800"
                                 data-easing="easeInOutExpo"
                                 data-endspeed="450">
-                                Our commitment to quality and services.
+                                UNISEX SALON
                             </div>
 
                             <div class="tp-caption ultra-big-white sfb"
@@ -169,7 +169,7 @@
                                 data-start="600"
                                 data-easing="easeInOutExpo"
                                 data-endspeed="400">
-                                Beauty Salon
+                                MASTERMIND WORLD
                             </div>
 
                             <div class="tp-caption sfb"
@@ -178,7 +178,7 @@
                                 data-speed="1000"
                                 data-start="1100"
                                 data-easing="easeInOutExpo">
-                                <a href="#" class="btn-slider">Read More
+                                <a href="#" class="btn-slider">Explore More
                                 </a>
                             </div>
                         </li>
